@@ -9,4 +9,4 @@ pip install -r requirements.txt
 python app.py
 
 
-<img width="910" height="697" alt="Ekran görüntüsü 2025-08-10 220902" src="https://github.com/user-attachments/assets/63e1696f-89cd-47bd-b0ab-d92ddf0b0ca8" />
+![1]("https://github.com/user-attachments/assets/63e1696f-89cd-47bd-b0ab-d92ddf0b0ca8")
