@@ -9,4 +9,3 @@ pip install -r requirements.txt
 python app.py
 
 
-![1]("https://github.com/user-attachments/assets/63e1696f-89cd-47bd-b0ab-d92ddf0b0ca8")
